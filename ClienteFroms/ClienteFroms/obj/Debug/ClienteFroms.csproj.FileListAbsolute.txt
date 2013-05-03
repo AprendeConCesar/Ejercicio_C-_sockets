@@ -1,0 +1,9 @@
+C:\Users\Cesar\Desktop\ClienteFroms\ClienteFroms\bin\Debug\ClienteFroms.exe.config
+C:\Users\Cesar\Desktop\ClienteFroms\ClienteFroms\bin\Debug\ClienteFroms.exe
+C:\Users\Cesar\Desktop\ClienteFroms\ClienteFroms\bin\Debug\ClienteFroms.pdb
+C:\Users\Cesar\Desktop\ClienteFroms\ClienteFroms\obj\Debug\ClienteFroms.csprojResolveAssemblyReference.cache
+C:\Users\Cesar\Desktop\ClienteFroms\ClienteFroms\obj\Debug\ClienteFroms.Form1.resources
+C:\Users\Cesar\Desktop\ClienteFroms\ClienteFroms\obj\Debug\ClienteFroms.Properties.Resources.resources
+C:\Users\Cesar\Desktop\ClienteFroms\ClienteFroms\obj\Debug\ClienteFroms.csproj.GenerateResource.Cache
+C:\Users\Cesar\Desktop\ClienteFroms\ClienteFroms\obj\Debug\ClienteFroms.exe
+C:\Users\Cesar\Desktop\ClienteFroms\ClienteFroms\obj\Debug\ClienteFroms.pdb
